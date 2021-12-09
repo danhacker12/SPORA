@@ -1,0 +1,14 @@
+C:\Users\dango\source\repos\spora\spora\bin\Debug\netcoreapp3.1\spora.exe
+C:\Users\dango\source\repos\spora\spora\bin\Debug\netcoreapp3.1\spora.deps.json
+C:\Users\dango\source\repos\spora\spora\bin\Debug\netcoreapp3.1\spora.runtimeconfig.json
+C:\Users\dango\source\repos\spora\spora\bin\Debug\netcoreapp3.1\spora.runtimeconfig.dev.json
+C:\Users\dango\source\repos\spora\spora\bin\Debug\netcoreapp3.1\spora.dll
+C:\Users\dango\source\repos\spora\spora\bin\Debug\netcoreapp3.1\spora.pdb
+C:\Users\dango\source\repos\spora\spora\obj\Debug\netcoreapp3.1\spora.csproj.AssemblyReference.cache
+C:\Users\dango\source\repos\spora\spora\obj\Debug\netcoreapp3.1\spora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dango\source\repos\spora\spora\obj\Debug\netcoreapp3.1\spora.AssemblyInfoInputs.cache
+C:\Users\dango\source\repos\spora\spora\obj\Debug\netcoreapp3.1\spora.AssemblyInfo.cs
+C:\Users\dango\source\repos\spora\spora\obj\Debug\netcoreapp3.1\spora.csproj.CoreCompileInputs.cache
+C:\Users\dango\source\repos\spora\spora\obj\Debug\netcoreapp3.1\spora.dll
+C:\Users\dango\source\repos\spora\spora\obj\Debug\netcoreapp3.1\spora.pdb
+C:\Users\dango\source\repos\spora\spora\obj\Debug\netcoreapp3.1\spora.genruntimeconfig.cache
